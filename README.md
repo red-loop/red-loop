@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @red-loop.
+- 👀 I’m interested in php, c, sql, css.
+- 🌱 I’m currently learning python for AI.
+- 💞️ I’m looking to collaborate in the mid-term future in my round-call project (a simple server-based free invitation platform).
